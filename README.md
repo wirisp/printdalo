@@ -2,7 +2,7 @@
 Impresion de voucher daloradius desde php buscando en batch o lote creado
 - Clonado de repositorio
 ```
-git clone  print
+git clone https://github.com/wirisp/printdalo.git print
 mv print /var/www/html
 ```
 
