@@ -1,6 +1,3 @@
-<?php
-    $connect=mysqli_connect("localhost","radius","84Uniq@","radius") or die("Connection failed");
-?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">  <head> <title>Impresion de Voucher</title>  <link href="https://fonts.cdnfonts.com/css/source-code-pro" rel="stylesheet"> <style type="text/css">     table { page-break-inside:auto }     tr    { page-break-inside:avoid; page-break-after:auto }     thead { display:table-header-group }     tfoot { display:table-footer-group }  @media print {  .noprint { display: none; }   @page {      size: auto;     margin: 15mm 2mm 0mm 6mm; } body {     margin:0;     padding:0; } }    </style>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
     </head>  <body>
