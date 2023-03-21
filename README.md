@@ -1,5 +1,5 @@
 # printdalo
-Impresion de voucher daloradius desde php buscando en batch o lote creado
+php para Impresion de voucher daloradius desde php buscando en batch o lote creado
 - Clonado de repositorio
 ```
 git clone https://github.com/wirisp/printdalo.git print
