@@ -36,3 +36,5 @@ mysqldump -p -u root radius > dbnamebk.sql
 ```
 mysql -p -u root radius < dbnamebk.sql
 ```
+
+- Copiar tambien el archivo SimpleAuth.php a la carpeta y cambiar el usuario y el password, esto es para proteger la pagina de impresion.
